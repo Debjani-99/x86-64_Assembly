@@ -1,12 +1,4 @@
 
-BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I STRICTLY ADHERED TO THE TENURES OF
-THE OHIO STATE UNIVERSITY'S ACADEMIC INTEGRITY POLICY.
-
-THIS IS THE README FILE FOR LAB 6.
-
-NAME: Debjani Hill
-
-Total amount of time (effort) it took for you to comeplete the lab: 6 hours
 
 Interesting problem:
 I had an interesting issue where I had a shll after reading the 4th digit,
